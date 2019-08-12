@@ -6,6 +6,8 @@
 ! 
 ! 
 .admicro.
+.com/ads/$image,object,subdocument
+://banner.$third-party
 ||amcdn.vn^
 ||imasdk.googleapis.com^$third-party
 ||adtimaserver.vn^
@@ -23,6 +25,7 @@
 ||bidgear.com^$third-party
 ||fansubvn.com/images/*.gif
 ||mgid.com^$third-party
+||sbbanner.com^$third-party
 ||uniad.vn^$third-party
 ||innity.net^$third-party
 ||khoai.tv/assets/popup.js
@@ -10054,6 +10057,7 @@
 ##.ads_area_03
 ##.ads_area_04
 ##.ads-block-warning
+##.header-ad-area
 ##.jw-cue
 ##.leftAdsBanner
 ##[id^="balloonads"]
@@ -10083,6 +10087,7 @@
 /ad_manage/*
 .vn/ads.
 .vn/ads/
+_728x90_
 .vn/ads_
 .vn/Advs/
 .vn/css/ads.
@@ -10261,6 +10266,7 @@ themarker.com,nachrichten.at##+js(abort-on-property-read.js, adblockDetector)
 /728x90-
 _728x90.
 /728x90.
+fb88.blog###float_content_left
 news.zing.vn###site-header
 news.zing.vn###banner_top
 news.zing.vn,minhngoc.net.vn,vn-zoom.org##[id^="adv"]
@@ -10329,6 +10335,19 @@ danviet.vn##.banner-LR
 deviantart.com##.partial-ad
 diadiem.com###divPopAdsPOI
 diadiem.com##.div_box_adv
+demkhuya.tv###overlay > div.modal-dialog > div > a.banner-link:last-child > img.responsive
+demkhuya.tv###dnn_float_left > div.sk_float:last-child > div.textwidget:first-child > p > a > img.alignnone.wp-image-2109.size-full
+demkhuya.tv###dnn_float_right > div.sk_float:first-child > div.textwidget:first-child > p > a > img.alignnone.wp-image-2109.size-full
+demkhuya.tv###dnn_float_right > div.sk_float:last-child > div.textwidget:first-child > p > a > img.alignnone.wp-image-2109.size-full
+demkhuya.tv###panel > div.container.block-ad-top.d-none.d-lg-block:nth-child(3) > div.row:last-child > div.col-12
+demkhuya.tv###dnn_float_left > div.sk_float:first-child > div.textwidget:first-child > p > a > img.alignnone.wp-image-2109.size-full
+demkhuya.tv###panel > div.container.block-ad-top.d-none.d-lg-block:nth-child(3) > div.row:first-child > div.col-sm-12 > div.textwidget > p > a.text-center > img.alignnone.size-medium.wp-image-2109
+demkhuya.tv###panel > section.main.block-odds.mt-2.mb-0.pb-3:nth-child(5) > div.container > div.wrap-bgwhite > div.row > div.col-md-12.col-lg-3:last-child > div.d-none.d-lg-block:first-child > div.textwidget > p > a > img.alignnone.size-medium.wp-image-2109
+demkhuya.tv###dnn_balloon_botright > div.textwidget:first-child > p > a > img.alignnone.wp-image-2109.size-full
+demkhuya.tv###dnn_balloon_botleft > div.textwidget:first-child > p > a > img.alignnone.wp-image-2109.size-full
+demkhuya.tv###overlay > div.modal-dialog > div > button.close:first-child
+demkhuya.tv###chat-column
+demkhuya.tv###box-player > div.text-center.ads-bottom-video:last-child > div.textwidget > p
 eva.vn##[id^="ADS_"]
 expertcircuits.blogspot.com###fanback
 fbtag.net##.Flagrow-Ads-fake-poststream-item
@@ -10634,6 +10653,8 @@ ketqua.net##.adsb
 ketqua.net##div[id^="baloon"]
 khoahoc.com.vn##MetaNET_SHARING_AD_NUMBER_3
 khoai.tv##.ads-fix-bottom-left
+tylekeobongda88.com###masthead
+tylekeobongda88.com###left_ads_float
 khoai.tv##.jw-cue
 kiemhieptruyen.com##a[href^="https://shorten.asia"]
 kiemhieptruyen.com#?#p.hoi:-abp-contains(DEAL)
