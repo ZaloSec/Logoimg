@@ -1,5 +1,5 @@
-[ZaloSec Adblock 1.0]
-! Title: Zalosec Adblock Filter [VN]
+[Adblock Plus 2.0]
+! Title: Zalosec Adblock Filter 
 ! Last modified: 09 Apr 2019 00:00 JST
 ! Expires: 6 hours (update frequency)
 ! Homepage: https://zalosec.com
