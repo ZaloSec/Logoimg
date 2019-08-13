@@ -3507,6 +3507,10 @@ hoathinh247.com###catfish1
 ##.adsmessage
 ##.advertisement-text
 ##.avert
+###bsac-4209-1250566448
+###bsac-5286-1923674439
+###bsac-4208-1896043963
+###bsac-4548-446107815
 ##.banner_728
 ##.ezoic-ad
 ##.float-ck
