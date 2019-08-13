@@ -981,6 +981,7 @@ hoathinh247.com###catfish1
 ##iframe[id^="google_ads_frame"]
 ##iframe[id^="google_ads_iframe"]
 ##relapads
+##.ads_top
 .online/ads/
 /300x250.
 123link.pro,123link.co,123link.pw,123link.vip,123link.carpartsviet31.site##.sticky_bottom
@@ -1347,7 +1348,6 @@ zippyshare.com##.center_ad
 ~oload.stream,~openload.co,~oload.tv,~howkteam.vn,~fptplay.vn##.adsbox
 ~thanglongkydao.com###ad_global_below_navbar
 ~vnexpress.net,~vipsub.us,~anonyviet.com,~autoitvn.com,~downmienphi.com,~taive.click,~mifirm.net,~phim4400.cf###ads
-!---------------ABPVN White List--------------------
 @@#$image,domain=autoitvn.com|truyentranhnhamnhi.com|phim4400.cf
 @@//adservice.google.$domain=download.mokeedev.com
 @@/ads.html$domain=xemrap.com
@@ -1425,7 +1425,6 @@ zippyshare.com##.center_ad
 @@||vantuanit.com$generichide
 @@||woprime.com$generichide
 @@||xiuren.org$generichide
-!------ ABPVN Adult block -------
 $popup,third-party,domain=veporn.net|avgle.com|daxab.com
 $webrtc,domain=daxab.com
 /\w{10}\.com\/\w{2}\/\w{2}\/\w{2}\/\w{32}\.js/$script
@@ -1506,7 +1505,6 @@ $webrtc,domain=daxab.com
 ||www.eporner.com/dotm/$subdocument,~third-party
 ||x7xirtzmot.com^
 ||xtremeserve.xyz^
-!---------- ABPVN Adult Element Hide ---------------
 avgle.com###aoverlay
 avgle.com###blocked-if
 avgle.com##.vjs-marker
