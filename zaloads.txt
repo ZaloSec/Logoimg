@@ -3488,9 +3488,12 @@ hoathinh247.com###catfish1
 ###player-ads
 ###qcBallonright
 ###watch7-sidebar-ads
+###adv_22
+###_138
 ##.AdBox
 ##.SC_TBlock
 ##.ad
+###_705
 ##.ad-728
 ##.ad-card
 ##.ad-left
@@ -3527,6 +3530,7 @@ hoathinh247.com###catfish1
 ##.video-ads
 ##.ytp-ad-progress
 ##.ytp-ad-progress-list
+##iframe[width="300"][height="250"]
 ##a[href^="https://ad.doubleclick.net/"]
 ##a[href^="https://medictiona.info/"]
 ##a[href^="https://megaurl.in/ref/"]
