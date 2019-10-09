@@ -15655,3 +15655,29 @@ bongdalive.tv,bongdaso.tv,bongdainfo.tv,demkhuya.tv,thuckhuya.net##+js(abort-on-
 ||jwpcdn.com/player/*/vast.js$third-party,domain=chiasenhac.vn|khoai.tv|phimonl.net|bongdalive.tv|bongdaso.tv|bongdainfo.tv|demkhuya.tv|thuckhuya.net
 ||qc.binhluan.tv^$image
 ||thuckhuya.net/*.gif
+bongdainfo.tv###overlay > div.modal-dialog > div > a.banner-link:last-child > img.responsive
+bongdainfo.tv##div.container.block-ad-top.d-none.d-lg-block:nth-child(5) > div.row.img-full-width:last-child > div.col-sm-12
+bongdainfo.tv###dnn_float_right
+bongdainfo.tv###dnn_float_left
+bongdainfo.tv###text-23 > div.textwidget > p > a > img.alignnone.wp-image-2109.size-full
+bongdainfo.tv###dnn_balloon_botleft > div.textwidget:first-child > p > a > img.alignnone.wp-image-2109.size-full
+bongdainfo.tv###dnn_balloon_botright > div.textwidget:first-child > p > a > img.alignnone.wp-image-2109.size-full
+bongdainfo.tv###chat-column
+bongdainfo.tv###player > div.show-ads-banner:last-child > a:last-child > img.w-100
+bongdainfo.tv###box-player > div.text-center.ads-bottom-video.hide-is-mobile:nth-child(5) > div.textwidget > p
+bongdainfo.tv###block-stream > div.row:last-child > div.box-statitics.col-sm-12:nth-child(5) > div.row > div.col-lg-3.col-xl-3:last-child
+thuckhuya.net###overlay > div.modal-dialog > div > a.banner-link:last-child > img.responsive
+thuckhuya.net###panel > div.container.block-ad-top.d-none.d-lg-block:nth-child(3) > div.row:last-child > div.col-12
+thuckhuya.net###dnn_float_right
+thuckhuya.net###panel > div.container.block-ad-top.d-none.d-lg-block:nth-child(3) > div.row:first-child > div.col-sm-12 > div.textwidget > p > a.text-center > img.alignnone.size-medium.wp-image-2109
+thuckhuya.net###dnn_float_left
+thuckhuya.net###dnn_balloon_botright > div.textwidget:first-child > p > a > img.alignnone.wp-image-2109.size-full
+thuckhuya.net###dnn_balloon_botleft > div.textwidget:first-child > p > a > img.alignnone.wp-image-2109.size-full
+thuckhuya.net###panel > div.container.d-none.d-lg-block:nth-child(8)
+thuckhuya.net###panel > section.main.main-block.block-odds.mt-2.mb-0.pb-3:nth-child(10) > div.container > div.wrap-bgwhite:last-child > div.row.flex-column-reverse.flex-sm-row > div.col-md-12.col-lg-3:last-child
+thuckhuya.net###main > div.container > div.wrap-bgwhite.pt-2 > div.row > div.col-sm-3:last-child
+thuckhuya.net###chat-column
+thuckhuya.net###text-31 > div.textwidget > p > a > img.alignnone.wp-image-2109.size-full
+thuckhuya.net###text-32 > div.textwidget > p > a > img.alignnone.wp-image-2109.size-full
+thuckhuya.net###box-player > div.text-center.ads-bottom-video:last-child > div.textwidget > p
+thuckhuya.net###block-stream > div.container > div.row:last-child > div.box-statitics.col-sm-12:nth-child(5) > div.row > div.col-lg-3.col-xl-3:last-child
