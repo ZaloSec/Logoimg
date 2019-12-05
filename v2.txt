@@ -19,6 +19,7 @@ phimgi.net,phimnhe.net##script:inject(abort-on-property-read.js, readCookie)
 tivis.101vn.com###eb951855
 tivis.101vn.com###sl2
 tivis.101vn.com###sl1
+||steepto.com/mghtml/framehtml/$important
 ||phimmoi.info^*.gif
 ||phimmoi.net/js/ambient/
 ||phimmoi.net/js/partner/$script
