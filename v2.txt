@@ -4,8 +4,10 @@
 ! Expires: 6 hours (update frequency)
 ! Homepage: https://zalosec.com
 !
-.gif$domain=thevangtv.com|banthang.tv|
-! ---------- tenmien ----------
+.gif$domain=thevangtv.com|banthang.tv|cdnmedia.thethaovanhoa.vn
+! ---------- An tuy chon ----------
+news.zing.vn###banner_top
+! ---------- sever ads ----------
 ||3xviet.com^$popup
 ||ad360.vn^$third-party
 ||adflex.vn^$third-party
@@ -2741,6 +2743,7 @@ yts/swfbin/player-vfl*/ad*.swf
 ###rightAdsBanner
 ##.above-player
 ##.ad
+##.ads300
 ##.adsbygoogle
 ##.float-ads-left
 ##.float-ads-right
