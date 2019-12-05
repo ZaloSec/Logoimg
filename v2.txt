@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: Zalosec Adblock Filter 
+! Title: Zalosec
 ! Last modified: 09 Apr 2019 00:00 JST
 ! Expires: 6 hours (update frequency)
 ! Homepage: https://zalosec.com
@@ -1410,7 +1410,6 @@ $webrtc,domain=forum.xda-developers.com|phim14.net|mkvcage.com|phimotv.net|daily
 /glp?r=*&rw=*&rh=*&ww=*&wh=$script,~third-party
 /goodtagmanagerapi.
 /googad300by600.
-/googima.js
 /gourmetads-
 /gpt_ads-
 /graphics/ad_
@@ -2500,7 +2499,6 @@ $webrtc,domain=forum.xda-developers.com|phim14.net|mkvcage.com|phimotv.net|daily
 .adinject.$domain=~adinject.com
 .adlabs.$domain=~adlabs.ru
 .admarvel.
-.admicro.
 .adnetwork.$domain=~adnetwork.ie|~adnetwork.sk
 .adnigma.
 .adnwif.
@@ -2521,7 +2519,6 @@ $webrtc,domain=forum.xda-developers.com|phim14.net|mkvcage.com|phimotv.net|daily
 .ads.darla.
 .ads.loader-
 .ads.zones.
-.ads1-
 .ads1.
 .ads2-
 .ads3-
@@ -2633,7 +2630,6 @@ $webrtc,domain=forum.xda-developers.com|phim14.net|mkvcage.com|phimotv.net|daily
 /logpopup/*$xmlhttprequest
 /mxmlvideoad/*
 /pagead/*
-/pagead2.
 /pop.$script
 /pop.ads.php
 /popad.php
