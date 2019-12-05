@@ -5,7 +5,7 @@
 ! Homepage: https://zalosec.com
 !
 
-||i.imgur.com/*.gif$domain=bongdatv.net|live.90m.tv|live.90phut.tv|macintosh.vn|phimmedia.tv|topbongda.com|binhluan.tv|phimgi.net|phimnhe.net|thevangtv.com|banthang.tv|cdn.bongdainfo.tv|images2-focus-opensocial.googleusercontent.com
+||i.imgur.com/*.gif$domain=bongdatv.net|live.90m.tv|live.90phut.tv|macintosh.vn|phimmedia.tv|topbongda.com|binhluan.tv|phimgi.net|phimnhe.net|thevangtv.com|banthang.tv|cdn.bongdainfo.tv|tylekeo88.com
 ||media.giphy.com/media/*.gif
 /googleads.$domain=~googleads.github.io
 bongda.wap.vn###MarketGidComposite74249
