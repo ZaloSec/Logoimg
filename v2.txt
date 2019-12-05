@@ -5,6 +5,7 @@
 ! Homepage: https://zalosec.com
 !
 .gif$domain=thevangtv.com|banthang.tv|cdnmedia.thethaovanhoa.vn
+/googleads.$domain=~googleads.github.io
 ! ---------- An tuy chon ----------
 news.zing.vn###banner_top
 ! ---------- sever ads ----------
@@ -30,7 +31,10 @@ news.zing.vn###banner_top
 ||yoads.net^
 ||yoads.network^
 ||yomedia.vn^$third-party
+||click.advertnative.com^$third-party
+||facebook.com/audiencenetwork/$third-party
 ! ---------- Chung ----------
+||doubleclick.net^$third-party,domain=92q.com|abc-7.com|addictinggames.com|allbusiness.com|bizjournals.com|bloomberg.com|bnn.ca|boom92houston.com|boom945.com|boomphilly.com|break.com|cbc.ca|cbs19.tv|cbs3springfield.com|cbslocal.com|complex.com|dailymail.co.uk|darkhorizons.com|doubleviking.com|edmunds.com|euronews.com|extratv.com|fandango.com|fox19.com|fox5vegas.com|gorillanation.com|hawaiinewsnow.com|hellobeautiful.com|hiphopnc.com|hot1041stl.com|hothiphopdetroit.com|hotspotatl.com|hulu.com|imdb.com|indiatimes.com|indyhiphop.com|ipowerrichmond.com|joblo.com|kcra.com|kctv5.com|ketv.com|koat.com|koco.com|kolotv.com|kpho.com|kptv.com|ksat.com|ksbw.com|ksfy.com|ksl.com|kypost.com|kysdc.com|live5news.com|livestation.com|livestream.com|metro.us|metronews.ca|miamiherald.com|my9nj.com|myboom1029.com|mycolumbuspower.com|nbcrightnow.com|neatorama.com|necn.com|neopets.com|news.com.au|news4jax.com|newshub.co.nz|newsone.com|nintendoeverything.com|oldschoolcincy.com|pagesuite-professional.co.uk|pandora.com|play.it|player.theplatform.com|radio.com|radionowindy.com|rottentomatoes.com|sbsun.com|shacknews.com|sk-gaming.com|ted.com|thebeatdfw.com|theboxhouston.com|theglobeandmail.com|tv2.no|ustream.tv|wapt.com|washingtonpost.com|wate.com|wbaltv.com|wcvb.com|wdrb.com|wdsu.com|wflx.com|wfmz.com|wfsb.com|wgal.com|whdh.com|wired.com|wisn.com|wiznation.com|wlky.com|wlns.com|wlwt.com|wmur.com|wnem.com|wowt.com|wral.com|wsj.com|wsmv.com|wsvn.com|wtae.com|wthr.com|wxii12.com|wyff4.com|yahoo.com|youtube-nocookie.com|youtube.com|zhiphopcleveland.com
 $popup,third-party,domain=oload.tv|oload.stream|openload.co|oload.site|appvn.com|mediafire.com|dfpan.com|mac-torrent-download.me|uploadocean.com|khophimplus.com|vinaurl.net|clipconverter.cc
 $webrtc,domain=forum.xda-developers.com|phim14.net|mkvcage.com|phimotv.net|dailyuploads.net|uploadocean.com|appvn.com|monova.org|monova.to
 &adformat=
@@ -40,9 +44,12 @@ $webrtc,domain=forum.xda-developers.com|phim14.net|mkvcage.com|phimotv.net|daily
 *$csp=script-src 'self' * data: 'unsafe-eval',domain=yts.am
 -120x240-
 -728x90
+-480x60-
 -adnow.com^$third-party
 -ads.
 -pagead-id.
+.admicro.
+.ads1-
 &act=ads_
 &ad.vid=$~xmlhttprequest
 &ad_box_
@@ -130,6 +137,8 @@ $webrtc,domain=forum.xda-developers.com|phim14.net|mkvcage.com|phimotv.net|daily
 /banners/300
 -2011ad_
 -300x100ad2.
+/prebid2.
+/googima.js
 /advertisingbanner.
 /advertisingbanner/*
 /advertisingbanner1.
@@ -177,6 +186,9 @@ $webrtc,domain=forum.xda-developers.com|phim14.net|mkvcage.com|phimotv.net|daily
 /advf1.
 /advfiles/*
 /advFrameCollapse.
+/gpt.js$script
+/pagead2.
+/show_ads_
 /advhd.
 /advice-ads.
 /advideo.$domain=~advideo.pro
@@ -2730,10 +2742,12 @@ _clicktracker.js
 assets/pub/shareaholic*
 searchTrack.php?
 yts/swfbin/player-vfl*/ad*.swf
+@@||p.jwpcdn.com/player/v/$script,stylesheet,third-party
 ###ad_float_right
 ###bar_float
 ###bn_bottom_fixed_left
 ###bn_bottom_fixed_right
+##.Ads_4
 ###left_float
 ###left_float_ads_content
 ###leftAdsBanner
