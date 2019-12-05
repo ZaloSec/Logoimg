@@ -27,7 +27,8 @@ phimmoi.net##.ad-center-980
 phimmoi.net##.balloon-ad-wrap
 phimmoi.net##.uniad-zonetype-preload-overlay
 phimmoi.net##[id^="uniad-zone"]
-phimmoi.net,zone.tv##.uniad-zonetype-preload-container
+phimmoi.net,zone.tv##.uniad-zonetype-preload-
+||js.pmcontent.com/js/ambient/client.js
 ! ---------- An tuy chon ----------
 news.zing.vn###banner_top
 ! ---------- sever ads ----------
