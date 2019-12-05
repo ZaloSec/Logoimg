@@ -4,7 +4,7 @@
 ! Expires: 6 hours (update frequency)
 ! Homepage: https://zalosec.com
 !
-
+.gif$domain=tylekeo88.com|tinsoikeo.com|xemkeo.vn|smsbongda.com|lixi88.online|soikeo.info
 ||i.imgur.com/*.gif$domain=bongdatv.net|live.90m.tv|live.90phut.tv|macintosh.vn|phimmedia.tv|topbongda.com|binhluan.tv|phimgi.net|phimnhe.net|thevangtv.com|banthang.tv|cdn.bongdainfo.tv|tylekeo88.com
 ||media.giphy.com/media/*.gif
 /googleads.$domain=~googleads.github.io
@@ -33,6 +33,7 @@ phimmoi.net,zone.tv##.uniad-zonetype-preload-
 ! ---------- An tuy chon ----------
 news.zing.vn###banner_top
 ! ---------- sever ads ----------
+||www.sbbanner.com^
 ||3xviet.com^$popup
 ||ad360.vn^$third-party
 ||adflex.vn^$third-party
@@ -2772,6 +2773,7 @@ yts/swfbin/player-vfl*/ad*.swf
 ###bn_bottom_fixed_left
 ###bn_bottom_fixed_right
 ##.Ads_4
+##.bannersblog
 ###left_float
 ###left_float_ads_content
 ###leftAdsBanner
