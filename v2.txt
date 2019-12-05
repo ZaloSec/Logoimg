@@ -18,6 +18,16 @@ phimgi.net,phimnhe.net##script:inject(abort-on-property-read.js, readCookie)
 tivis.101vn.com###eb951855
 tivis.101vn.com###sl2
 tivis.101vn.com###sl1
+||phimmoi.info^*.gif
+||phimmoi.net/js/ambient/
+||phimmoi.net/js/partner/$script
+||phimmoi.net/js/vtlai/movie/public/pad.js
+||uniad.phimmoi.net^
+phimmoi.net##.ad-center-980
+phimmoi.net##.balloon-ad-wrap
+phimmoi.net##.uniad-zonetype-preload-overlay
+phimmoi.net##[id^="uniad-zone"]
+phimmoi.net,zone.tv##.uniad-zonetype-preload-container
 ! ---------- An tuy chon ----------
 news.zing.vn###banner_top
 ! ---------- sever ads ----------
