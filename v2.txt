@@ -4,8 +4,20 @@
 ! Expires: 6 hours (update frequency)
 ! Homepage: https://zalosec.com
 !
-.gif$domain=thevangtv.com|banthang.tv|cdnmedia.thethaovanhoa.vn
+
+||i.imgur.com/*.gif$domain=bongdatv.net|live.90m.tv|live.90phut.tv|macintosh.vn|phimmedia.tv|topbongda.com|binhluan.tv|phimgi.net|phimnhe.net|thevangtv.com|banthang.tv|cdn.bongdainfo.tv|images2-focus-opensocial.googleusercontent.com
+||media.giphy.com/media/*.gif
 /googleads.$domain=~googleads.github.io
+keonhacai.net###eb951855
+keonhacai.net###sl2
+keonhacai.net###sl1 
+keonhacai.net###_ComingMatches_s
+phimgi.net###top-player
+phimgi.net##.pc-catfix
+phimgi.net,phimnhe.net##script:inject(abort-on-property-read.js, readCookie)
+tivis.101vn.com###eb951855
+tivis.101vn.com###sl2
+tivis.101vn.com###sl1
 ! ---------- An tuy chon ----------
 news.zing.vn###banner_top
 ! ---------- sever ads ----------
@@ -2787,6 +2799,20 @@ yts/swfbin/player-vfl*/ad*.swf
 ##div#mobitree
 ##div#mobitreeP
 ##div#prism_displayAD
+##.float-left
+##.top-banner
+##.ctnz
+##.right_pane
+##.leaderboard_banner
+##.show-ads-banner
+##.adTop
+##.divdatcuoc
+##.adAboveBottom
+##.adBot
+##.textwidget
+##.a90x490
+##.full_banner1
+##.full_banner2
 ##div#uniqubeAd_area
 ##div#uniqubeAd_area_iframe
 ##div#uniqubeAd_area_text
