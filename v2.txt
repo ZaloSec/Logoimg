@@ -2953,7 +2953,6 @@ youtube.com##.guide-builder-v2 .branded-page-v2-secondary-col
 @@||youtube.com/api/stats/atr?*
 @@||youtube.com/api/stats/playback?*
 ||youtube.com/live_chat_fragments_ajax?$xmlhttprequest
-||youtube.com/comment_service_ajax?$domain=youtube.com
 ||youtube.com/annotations_invideo?$object-subrequest
 ||youtube.com/share_ajax?action_get_share_box=1&video_id=$xmlhttprequest
 ||ytimg.com/yts/swfbin/player-*/endscreen.swf$object-subrequest,domain=youtube.com
