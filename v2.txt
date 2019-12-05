@@ -7,6 +7,9 @@
 .gif$domain=tylekeo88.com|tinsoikeo.com|xemkeo.vn|smsbongda.com|lixi88.online|soikeo.info
 ||i.imgur.com/*.gif$domain=bongdatv.net|live.90m.tv|live.90phut.tv|macintosh.vn|phimmedia.tv|topbongda.com|binhluan.tv|phimgi.net|phimnhe.net|thevangtv.com|banthang.tv|cdn.bongdainfo.tv|tylekeo88.com
 ||media.giphy.com/media/*.gif
+||media.jxf88.com/wellbet_media/v1/*.gif
+anime47.com#%#Object.defineProperty(window, 'BB', { get: function() { return { getVASTUrl: function() {} }; } });
+anime47com#%#//scriptlet("prevent-fab-3.2.0")
 /googleads.$domain=~googleads.github.io
 bongda.wap.vn###MarketGidComposite74249
 keonhacai.net###eb951855
@@ -34,6 +37,12 @@ phimmoi.net,zone.tv##.uniad-zonetype-preload-
 ! ---------- An tuy chon ----------
 news.zing.vn###banner_top
 ! ---------- sever ads ----------
+||bebi.com^$third-party
+||facebook.com/*/plugins/$domain=~facebook.com
+||alexametrics.com^$third-party
+||googletagmanager.com/gtag/$third-party
+||cpmstar.com/cached/
+||mookie1.com^$third-party
 ||www.sbbanner.com^
 ||3xviet.com^$popup
 ||ad360.vn^$third-party
