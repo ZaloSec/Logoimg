@@ -42,7 +42,6 @@ phimmoi.net,zone.tv##.uniad-zonetype-preload-
 news.zing.vn###banner_top
 ! ---------- sever ads ----------
 ||bebi.com^$third-party
-||facebook.com/*/plugins/$domain=~facebook.com
 ||alexametrics.com^$third-party
 ||googletagmanager.com/gtag/$third-party
 ||cpmstar.com/cached/
