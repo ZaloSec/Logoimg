@@ -10,6 +10,8 @@
 ||phimmoi.net/js/partner/$script
 ||phimmoi.net/js/vtlai/movie/public/pad.js
 ||blogspot.com^*.gif
+||media.giphy.com^*.gif
+||tructuyenbongda.info^*.gif
 ! ================================= Sever Google ================================
 youtube.com###feed-pyv-container
 youtube.com###video-masthead
