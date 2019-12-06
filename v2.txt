@@ -2823,7 +2823,6 @@ yts/swfbin/player-vfl*/ad*.swf
 ##div#mobitree
 ##div#mobitreeP
 ##div#prism_displayAD
-##.float-left
 ##.top-banner
 ##.ctnz
 ##.right_pane
