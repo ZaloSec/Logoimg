@@ -19,6 +19,10 @@ keonhacai.net###_ComingMatches_s
 phimgi.net###top-player
 phimgi.net##.pc-catfix
 phimgi.net,phimnhe.net##script:inject(abort-on-property-read.js, readCookie)
+hhkungfu.tv###rightads
+hhkungfu.tv###leftads
+hhkungfu.tv###bsadsheadline
+hhkungfu.tv###Adsbanner
 tivis.101vn.com###eb951855
 tivis.101vn.com###sl2
 tivis.101vn.com###sl1
