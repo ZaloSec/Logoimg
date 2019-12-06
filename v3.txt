@@ -4,6 +4,12 @@
 ! Expires: 6 hours (update frequency)
 ! Homepage: https://zalosec.com
 !
+! ================================= Block Tenmien ================================
+||phimmoi.info^*.gif
+||phimmoi.net/js/ambient/
+||phimmoi.net/js/partner/$script
+||phimmoi.net/js/vtlai/movie/public/pad.js
+
 ! ================================= Sever Google ================================
 youtube.com###feed-pyv-container
 youtube.com###video-masthead
@@ -258,6 +264,7 @@ _ads_
 ##.quangcao
 ##.safeuploada-filter
 ##.SC_TBlock
+##.bannersblog
 ##.top_ads
 ##.video-ads
 ##.ytp-ad-progress
@@ -298,6 +305,8 @@ _ads_
 ##[id^="divAd"]
 
 ! ---------- Ad domain ----------
+||www.gmodules.com^$third-party
+||media.jxf88.com^$third-party
 ||actv.ontrak.top^$third-party
 ||ad.doubleclick.net^$popup
 ||ad.xmovies8.ru^
@@ -533,6 +542,9 @@ _ads_
 ||raupsooy.net^
 ||realclick.vn^$third-party
 ||realsecuredredirect.com^
+||www.gmodules.com^$third-party
+||media.jxf88.com^$third-party
+||v9banners.com^$third-party
 ||reasedoper.pw^$third-party
 ||recreativ.ru^$third-party
 ||remind.tv^$script,third-party
@@ -550,3 +562,4 @@ _ads_
 ||yoads.net^
 ||yoads.network^
 ||yomedia.vn^$third-party
+||uniad.phimmoi.net^
