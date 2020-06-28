@@ -12,6 +12,11 @@
 ||blogspot.com^*.gif
 ||media.giphy.com^*.gif
 ||tructuyenbongda.info^*.gif
+dongphim.tv##.vast-checkpoint-wrapper
+dongphim.tv##div[class^="aballon-"]
+dongphim.tv##div[class^="abanner-"]
+dongphim.tv##div[class^="afixed-"]
+dongphim.tv##div[class^="apreload-"]
 ! ================================= Sever Google ================================
 youtube.com###feed-pyv-container
 youtube.com###video-masthead
