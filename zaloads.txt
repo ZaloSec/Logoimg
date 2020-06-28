@@ -15460,6 +15460,11 @@ pl.tclup.com##.modal
 quantrimang.com###ouibounce-modal
 sachmoi.net##[href^="https://go.masoffer.net"]
 skmoba.com,biphim.net##div[class*="ads_"]
+dongphim.tv##.vast-checkpoint-wrapper
+dongphim.tv##div[class^="aballon-"]
+dongphim.tv##div[class^="abanner-"]
+dongphim.tv##div[class^="afixed-"]
+dongphim.tv##div[class^="apreload-"]
 thevang.tv##.center-banners
 thevang.tv##.show-ads-banner
 tienganh.com.vn###table1
