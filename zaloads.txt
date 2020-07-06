@@ -3031,7 +3031,6 @@ hoathinh247.com###catfish1
 ||yan.vn/Flash/
 ||yeah1.com^*/banners/
 ||yeuquanvot.vn/chau/$image,domain=chophanthiet.us
-||youtube.com/get_midroll_
 ||yts.am/assets/images/website/logo-YTS.svg$popup
 ||zhiziyun.com^$domain=dlkoo.com
 ! ---------- Ad domain ----------
@@ -3969,9 +3968,6 @@ xemtivingon.com###Balloon_Left
 xemtiviso.com,bongdaso.com##.med_rec_banner1
 xemtvhd.com##.quangcaos
 xiuren.org###christmas
-youtube.com###masthead-ad
-youtube.com###video-masthead
-youtube.com##ytd-search-pyv-renderer
 ytmp3.cc###pa_download
 zippyshare.com##.center_ad
 ||octaengine.com^$subdocument,domain=traderviet.com
@@ -14406,11 +14402,6 @@ $script,websocket,domain=ahoypirate.click|ahoypirate.in|ahoypiratebaai.eu|airpro
 ||yceml.net^
 ||yllix.com^
 ||yomedia.vn^
-||youtube.com/annotations_invideo?*
-||youtube.com/api/stats/
-||youtube.com/embed/VLz6bN1dImo?*
-||youtube.com/gen_*?a=resolution&width=*
-||youtube.com/get_video_*el=adunit*
 ||11bet.$popup,third-party
 ||188bongda.com^$third-party
 ||4.bp.blogspot.com/-992t0itJqn0/W-VW5TA8luI/AAAAAAABsLY/PwOPzP0EvlwtQVOqnI6vG1WW9bQM_TuRwCHMYCw/s0/
@@ -14518,7 +14509,6 @@ $script,websocket,domain=ahoypirate.click|ahoypirate.in|ahoypiratebaai.eu|airpro
 ||xehay.vn/public/html5/ads/
 ||xemphimvtv.net/pop.js
 ||yeah1.com/native-ads/
-||youtube.com/embed/$subdocument,domain=truyentranhth.net
 ||adnetwork.vn^$third-party
 ||aff.opus-static.com^$third-party
 ||an.xemvtv.net^
@@ -15316,10 +15306,6 @@ voz.party##.Flagrow-Ads-fake-poststream-item
 xemgame.com##.abs-bg
 xemphim73.com##.movie-info-box + A
 xemtivihot.com##.full_banner22
-youtube.com###feed-pyv-container
-youtube.com###watch7-sidebar-ads
-youtube.com##.pyv-afc-ads-container
-youtube.com##.ytp-ce-element.ytp-ce-element-show
 zippyshare.com###qrCode ~ a[href$="1131386.html"]
 123doc.org##.ads_show
 123link.pro,123link.co,123link.pw,123link.vip,123link.carpartsviet31.site,phlame.pw##.sticky_bottom
@@ -15588,7 +15574,6 @@ esl-lab.com#@#.addthis_toolbox
 inbox.google.com#@#.ad
 twitch.tv#@#[class^="balloon"]
 bongdalive.tv,bongdaso.tv,bongdainfo.tv,demkhuya.tv##.show-ads-banner
-hdvietnam.com###youtube.secondaryContent
 @@/recaptcha/*$script,domain=ouo.io|ouo.press
 @@/tb/tsrp/*$stylesheet,domain=s.taobao.com
 @@/user_ads/*
@@ -15642,8 +15627,6 @@ hdvietnam.com###youtube.secondaryContent
 @@||xemvtv.net/jwplayer7/vast.js
 @@||xphim.vn/jwplayer7/vast.js
 @@||yimg.com/zz/combo?*
-@@||youtube.com/api/stats/atr?*
-@@||youtube.com/api/stats/playback?*
 binhluan.tv##+js(setTimeout-defuser, modal-media-image)
 bongdalive.tv,bongdaso.tv,bongdainfo.tv,demkhuya.tv,thuckhuya.net##+js(abort-on-property-write.js, popupBanners)
 ||bongdaso.tv/wp-content/uploads/*.gif
