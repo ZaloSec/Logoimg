@@ -17,6 +17,9 @@
 ###rightAdsBanner
 ##.above-player
 ##.ad
+##.ad-container
+##.video-ads
+##.ytp-ad-progress-list
 ##.adsbygoogle
 ##.float-ads-left
 ##.float-ads-right
@@ -44,6 +47,8 @@ $webrtc,domain=phim14.net|appvn.com
 -quang-cao/
 .com/qc/*
 .net/qc/*
+=adunit&
+youtube.com###masthead-ad
 .php?referer*
 /1131386.$domain=zippyshare.com
 /1131386/|$domain=zippyshare.com
@@ -336,6 +341,17 @@ yts/swfbin/player-vfl*/ad*.swf
 ||inet.vn/images/banner
 ||ismcorp.vn^*.gif$domain=hdvietnam.com
 ||js.pmcontent.com/js/ambient/client.js
+||doubleclick.net^
+||flashtalking.com$domain=youtube.com
+||googleadservices.com
+||googlesyndication.com^
+||s0.2mdn.net/ads
+||www.google.*/pagead$domain=youtube.com
+||www.youtube.com/[[computeEmptyGif_()]]$image
+||www.youtube.com/[[computeThumbnailUrl_(data.thumbnail)]]
+||www.youtube.com/api/stats
+||www.youtube.com/pagead
+||www.youtube.com/ptracking
 ||js-agent.newrelic.com
 ||k8wap.com^$popup,third-party
 ||kenhvideo.com^*.gif
