@@ -1405,6 +1405,26 @@ animevsub.tv##.ads_player
 animevsub.tv##.ballon-ck
 anonyviet.com##.td-container-wrap.td-logo-wrap-full.td-banner-wrap-full
 anonyviet.com##.widget_custom_html
+||www.youtube.com/ads/$image
+youtube.com##ytd-promoted-sparkles-web-renderer
+youtube.com##ytd-carousel-ad-renderer
+youtube.com##.ad-container
+youtube.com##.video-ads
+youtube.com##.ytp-ad-progress-list
+youtube.com##.ytd-search-pyv-renderer
+youtube.com##.iv-promo
+youtube.com###player-ads
+youtube.com###masthead-ad
+youtube.com###video-masthead 
+=adunit&$domain=youtube.com
+||www.youtube.com/yts/jsbin/www-pagead-id-
+||youtube.com/get_midroll_
+||pagead2.googlesyndication.com^
+||www.google.co.jp/pagead/lvz?
+||youtube.com/pagead/
+||doubleclick.net^
+||2mdn.net^$domain=youtube.com
+youtube.com##+js(json-prune, playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds)
 anonyviet.com##.widget_jnews_module_element_ads
 appvn.com##.linhnguyen-modal
 appvn.com##.linhnguyen-modal-bg
