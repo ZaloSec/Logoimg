@@ -17964,3 +17964,11 @@ wav.tv##.adframe
 ||pokoran.com^
 ||wav.tv/support/adframe?
 ||ero-video.net/advert/
+||youtube.com/pagead/
+||www.google.com/pagead/$domain=youtube.com
+youtube.com##.ytd-player-legacy-desktop-watch-ads-renderer
+youtube.com###offer-module
+youtube-nocookie.com,youtube.com#%#//scriptlet('set-constant', 'ytInitialPlayerResponse.adPlacements', 'undefined')
+youtube-nocookie.com,youtube.com#%#//scriptlet('set-constant', 'playerResponse.adPlacements', 'undefined')
+youtube-nocookie.com,youtube.com#%#//scriptlet('json-prune', '0.playerResponse.adPlacements 0.playerResponse.playerAds playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds')
+/googleads.$~script,domain=~github.com|~github.io
